@@ -1,4 +1,4 @@
-# Books Dataset
+# GG Books Dataset
 This dataset is inspired from LitRec dataset which is the combination of goodreads and gutenberg datasets.
 
 Created this dataset for the recommendation task where the ratings from users (goodreads) and text from books (gutenberg) are used.
